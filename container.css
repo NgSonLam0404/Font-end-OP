@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: gainsboro;
+}
+.container{
+    display:flex;
+    height: 100vh;
+    display: flex;
+    flex-wrap : wrap;
+    position: sticky;
+    z-index: 100;
+    top: 0;
+}
